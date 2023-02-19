@@ -16,7 +16,7 @@ Sometimes may not match what you want so make sure you check the outputs.
 
 ## Use
 
-For custom use I woudl recommend only using the extension.js and package.json files as the rest are boilerplate from yeoman vs code extension developement.
+For custom use I would recommend only using the extension.js and package.json files as the rest are boilerplate from yeoman vs code extension developement.
 
 ---
 
